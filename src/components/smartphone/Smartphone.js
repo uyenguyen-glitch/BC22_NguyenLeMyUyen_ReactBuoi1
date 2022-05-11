@@ -7,12 +7,12 @@ export default function Smartphone() {
       <div className="row">
         <div className="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-lg-3">
           <div className="container">
-            <div className="card bg-light" style={{ width: "300 px" }}>
+            <div className="card bg-light" style={{ width: "300px" }}>
               <img
                 className="card-img-top"
                 src="./assets/img/sp_iphoneX.png"
                 alt="Card image"
-                style={{ maxWidth: "100%", height: "250 px" }}
+                style={{ maxWidth: "100%", height: "250px" }}
               />
               <div className="card-body text-center">
                 <h4 className="card-title text-center">iPhone X</h4>
@@ -39,7 +39,7 @@ export default function Smartphone() {
                 alt="Card image"
                 style={{
                   maxWidth: "100%",
-                  height: "250 px",
+                  height: "250px",
                 }}
               />
               <div className="card-body text-center">
@@ -60,14 +60,14 @@ export default function Smartphone() {
         </div>
         <div className="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-lg-3">
           <div className="container">
-            <div className="card bg-light" style={{ width: "300 px" }}>
+            <div className="card bg-light" style={{ width: "300px" }}>
               <img
                 className="card-img-top"
                 src="./assets/img/sp_iphoneX.png"
                 alt="Card image"
                 style={{
                   maxWidth: "100%",
-                  height: "250 px",
+                  height: "250px",
                 }}
               />
               <div className="card-body text-center">
@@ -88,14 +88,14 @@ export default function Smartphone() {
         </div>
         <div className="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-lg-3">
           <div className="container">
-            <div className="card bg-light" style={{ width: "300 px" }}>
+            <div className="card bg-light" style={{ width: "300px" }}>
               <img
                 className="card-img-top"
                 src="./assets/img/sp_iphoneX.png"
                 alt="Card image"
                 style={{
                   maxWidth: "100%",
-                  height: "250 px",
+                  height: "250px",
                 }}
               />
               <div className="card-body text-center">
